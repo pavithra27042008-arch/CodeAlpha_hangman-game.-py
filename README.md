@@ -92,6 +92,7 @@ The correct word was: apple
 ```
 
 👩‍💻 Author
+
 Pavithra Pushpa Lakshmi. K
 
 Completed as part of the CodeAlpha Python Programming Internship 
