@@ -1,7 +1,11 @@
-## CodeAlpha Python Programming Internship 📌Task 
+## CodeAlpha Python Programming Internship 
+
+📌Task 
+
 Task 1 -Hangman Game
 
 📖Description
+
 This project is a simple text-based Hangman Game developed using Python. The game randomly selects a word from a predefined list of five words. The player has to guess the word one letter at a time with a maximum of six incorrect guesses.
 
 🚀Features
